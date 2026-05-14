@@ -1,1 +1,1 @@
-# .github
+WhiteGram is an unofficial Telegram client for iOS, based on the Telegram source code for iOS. The project retains the main features of Telegram, while adding customization of the interface, including chats, channels, stories, translation, transcriptions, as well as automatic proxy processing.
